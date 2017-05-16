@@ -1,0 +1,63 @@
+.navbar-default .navbar-brand {
+  font-size: 24px;
+  font-family: "微软雅黑";
+  height: 50px;
+  line-height: 25px;
+}
+.navbar-default .navbar-nav > li > a {
+  font-size: 16px;
+  font-weight: bold;
+  height: 50px;
+  line-height: 25px;
+}
+.navbar-toggle {
+  margin-top: 18px;
+}
+.progress {
+  margin-bottom: 15px;
+}
+.wh64 {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+button {
+  margin-top: 15px;
+}
+.bt {
+  margin-top: 2px;
+}
+.search {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-top: none;
+}
+.add {
+  padding-top: 10px;
+}
+.page-header {
+  margin-top: -5px;
+  padding-bottom: 0;
+}
+.page-header h1 {
+  font-size: 16px;
+}
+.table button {
+  margin-top: 0;
+}
+.pad {
+  padding: 0;
+}
+#sub {
+  margin-top: 0px;
+}
+.taglist {
+  padding-top: 10px;
+}
+.taglist .alert {
+  margin: 0 15px 15px 0;
+}
+.footer {
+  text-align: center;
+  padding: 25px 0;
+}
